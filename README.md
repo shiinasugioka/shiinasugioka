@@ -28,3 +28,20 @@
 </div>
 
 ---
+<div id="table" align="center">
+  <table style="border: none;">
+    <tr>
+      <td>
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=s.sugioka12&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Seattle-HIMA/shima-website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Seattle-HIMA&repo=shima-website" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
