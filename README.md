@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnljdmE5anRxdGUyaTlnYjRlNXY4aWhwZXp6b2VyeWQ2aWFuYmdoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="400"/>
   
   <div id="badges" align="center>
-    <a href="https://linkedin.com/in/shiinas/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://linkedin.com/in/shiinas/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="27" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=shiinasugioka&style=flat-square&color=blue" alt="" height=27 />
     <br />
