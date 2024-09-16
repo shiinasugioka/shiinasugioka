@@ -31,7 +31,7 @@
 
 <div id="table" align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=s.sugioka12&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=false&bar_color=53b14f&bar_color_cover=true" />
+     [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=s.sugioka12&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   </a>
 
   <a href="https://github.com/Seattle-HIMA/shima-website">
