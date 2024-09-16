@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=shiinasugioka&style=flat-square&color=blue" alt="" height=27 />
     <br />
     <br />
-    <div id="desc"> :mortar_board: I'm Shiina, Senior at the University of Washington. Welcome to my GitHub! :seedling: </div>
+    <div id="desc"> :mortar_board: I'm Shiina, recent graduate from the University of Washington. Welcome to my GitHub! :seedling: </div>
   </div>
 </div>
 
